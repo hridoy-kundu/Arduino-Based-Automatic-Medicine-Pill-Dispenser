@@ -1,8 +1,8 @@
-Arduino-Based Automatic Medicine (Pill) Dispenser
+**Arduino-Based Automatic Medicine (Pill) Dispenser**
 
 An IoT-enabled Arduino project that automatically dispenses medicines at scheduled times to help patients take the right dose on time.
 
-Features
+**Features**
 
 i) Automated pill dispensing based on real-time clock (RTC)
 
@@ -12,7 +12,7 @@ iii) Multiple-compartment design for different medicines
 
 iv) Easy to configure dosage schedule
 
-Hardware Requirements
+**Hardware Requirements**
 
 i) Arduino Uno / Mega
 
